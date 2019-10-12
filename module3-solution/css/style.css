@@ -12,7 +12,7 @@ body {
     border-radius: 0;
 }
 #mynav button {
-    margin-top: 22px;
+    margin-top: 20px;
 }
 .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
     background-color: #e4a76f;
@@ -28,12 +28,11 @@ body {
 .navbar-brand h1 {
     font-family: 'Lato', sans-serif;
     font-weight: bolder;
-    font-size: 2em;
+    font-size: 30px;
     color: #ffffff;
 }
 .navbar-brand a:hover {
     text-decoration: none;
-    text-shadow: 1px 1px 1px #74d6c6;
 }
 #nav-list {
     background-color: #8753e7;
@@ -41,7 +40,7 @@ body {
 #nav-list a {
     font-weight: bolder;
     color: #282828;
-    font-size: 1.2em;
+    font-size: 18px;
 }
 #nav-list a:hover {
     color: #202020;
@@ -59,14 +58,14 @@ body {
 }
 #main h2 {
     font-weight: bold;
-    font-size: 3em;
-    margin-top: 1.2em;
-    margin-bottom: 1.2em;
+    font-size: 45px;
+    margin-top: 18px;
+    margin-bottom: 18px;
 }
 #main h3 {
     font-weight: bold;
-    margin-bottom: 1em;
-    font-size: 1.5em;
+    margin-bottom: 15px;
+    font-size: 22px;
 }
 #main-sec {
     background-color: #3c2896;
